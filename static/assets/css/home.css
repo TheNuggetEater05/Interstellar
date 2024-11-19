@@ -31,7 +31,7 @@
 }
 
 .title:hover {
-   transform: translateY(-5%) scale(1.03);
+   transform: translateY(-5%) scale(1.2);
    font-weight: 800;
 }
 

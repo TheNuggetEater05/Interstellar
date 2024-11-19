@@ -1,35 +1,9 @@
 [
   {
-    "name": "! Create Custom App",
-    "image": "/assets/media/icons/custom.webp",
-    "categories": ["all"],
-    "custom": "true"
-  },
-  {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Amazon",
     "link": "https://amazon.com/",
     "image": "/assets/media/icons/amazon.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Steam",
-    "link": "https://store.steampowered.com/",
-    "image": "/assets/media/icons/steam.webp",
-    "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
-    "partial": true
   },
   {
     "name": "BuzzFeed Quizzes",
